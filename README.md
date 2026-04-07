@@ -1,8 +1,8 @@
 # Hi, I'm rG33 👋
 
-Aspiring **Android Developer** with a passion for building modern, user-friendly mobile applications using **Kotlin** and **Jetpack Compose**. I am actively seeking **Android development internship opportunities** to apply and deepen my skills in real-world projects.
+**Android Developer** 
+---![WhatsApp Image 2026-04-07 at 22 54 46](https://github.com/user-attachments/assets/1488823b-c2b1-46e2-8035-f466eaa22978)
 
----
 
 ## 👨‍💻 Skills & Tech Stack
 
@@ -28,8 +28,3 @@ Aspiring **Android Developer** with a passion for building modern, user-friendly
 
 ---
 
-## 🤝 What I’m Looking For
-
-- Android internships focused on **Kotlin** and **Jetpack Compose**
-- Opportunity to learn from experienced teams and contribute to real apps
-- Collaborative and challenging environment
