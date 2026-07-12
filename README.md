@@ -6,9 +6,8 @@
 - 🏗️ Strong advocate of MVVM and Clean Architecture
 - 🐧 Comfortable working across Linux (Ubuntu & Fedora) and Windows environments
 - 🌱 Constantly learning and building through hands-on projects
-- 🚀 Seeking Android, Backend, and Software Engineering Internship opportunities
 
----
+
 
 ## ⚡ Tech Stack
 
