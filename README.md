@@ -1,4 +1,4 @@
-# rG33 — Android & Backend Developer (B.Tech, Class of 2027)
+# rG33  Android & Backend Developer 
 
 Experienced and motivated B.Tech student (expected April 2027) focused on building reliable Android applications and scalable backend services. I write readable, testable code and follow MVVM and Clean Architecture patterns to deliver maintainable software. Currently seeking internship or early-career opportunities in Android or backend engineering.
 
