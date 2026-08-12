@@ -42,13 +42,6 @@ Experienced and motivated B.Tech student (expected April 2027) focused on buildi
 - Scalable backend architecture and system design
 - Performance optimization and best practices
 
----
-
-## Education
-
-- B.Tech — Expected April 2027
-
----
 
 ## Interests & Availability
 
