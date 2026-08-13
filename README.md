@@ -3,7 +3,7 @@ Core skills
 - Languages: Kotlin, Java, SQL
 - Android: Jetpack Compose, MVVM, Coroutines, Room, Retrofit, Hilt
 - Backend: Spring Boot, RESTful APIs, Spring Data JPA, Gradle (KTS)
-- Databases & tooling: PostgreSQL, MySQL, MongoDB, Docker, Git
+- Databases & tooling: PostgreSQL, MySQL, MongoDB, Docker, Git, Maven
 
 Currently learning
 - Spring Security & JWT, Redis, Docker Compose, advanced Kotlin Coroutines & Flow
